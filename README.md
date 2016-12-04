@@ -21,3 +21,8 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
 - jrimum Bopepo 0.2.3-SNAPSHOT
 - jrimum Texgit 0.2.0-SNAPSHOT
 - JUnit 4.10
+
+#### @author:
+Andrei Toledo
+
+Analista e Desenvolvedor de Sistemas
