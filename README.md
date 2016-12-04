@@ -1,5 +1,5 @@
 # nova-cobranca-web
-# Boletos e arquivos de retorno com BOPEPO e TEXGIT.
+# Boletos e Arquivos de Retorno com BOPEPO e TEXGIT.
 
 #### Sobre:
 
