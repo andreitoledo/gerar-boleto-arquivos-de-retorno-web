@@ -16,7 +16,6 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
 - JSF 2.1 
 - Primefaces 5.0
 - JPA 2.0 com Hibernate 4.3.6.Final
-- Bean Validation com Hibernate Validator
 - CDI com Weld 2.2.10.Final
 - Drive JDBC MySQL 5.1.25 (usei esse banco, mas pode subir em outro por utilizar JPA)
 - jrimum Bopepo 0.2.3-SNAPSHOT
