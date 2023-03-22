@@ -3,9 +3,9 @@
 
 #### Sobre:
 
-A idéia para esse sistema é mostrar como podemos trabalhar com a geração de boletos bancários e arquivos de retorno, efetuando a baixa no banco de dados ao confirmar o pagamento do boleto, através do arquivo de retorno.
+#### A idéia para esse sistema é mostrar como podemos trabalhar com a geração de boletos bancários e arquivos de retorno, efetuando a baixa no banco de dados ao confirmar o pagamento do boleto, através do arquivo de retorno.
 
-Sistema de cobrança que emite um boleto bancário para pagamento de condominio, e em outra tela efetua o recebimento do arquivo de retorno que o banco envia, contendo os boletos pagos para baixar no sistema e banco de dados.
+#### Sistema de cobrança que emite um boleto bancário para pagamento de condominio, e em outra tela efetua o recebimento do arquivo de retorno que o banco envia, contendo os boletos pagos para baixar no sistema e banco de dados.
 ----
 ![boleto](https://user-images.githubusercontent.com/16118637/227005221-4afd275c-019b-4339-972c-159683bbbda9.png)
 ----
