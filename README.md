@@ -1,5 +1,5 @@
-# nova-cobranca-web
-# Boletos e Arquivos de Retorno com BOPEPO e TEXGIT.
+### Boletos e Arquivos de Retorno com BOPEPO e TEXGIT.
+### JSF + Primefaces e JPA com Hibernate
 
 #### Sobre:
 
