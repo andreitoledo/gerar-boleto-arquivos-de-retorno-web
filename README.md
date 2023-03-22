@@ -8,7 +8,7 @@
 #### Sistema de cobrança que emite um boleto bancário para pagamento de condominio, e em outra tela efetua o recebimento do arquivo de retorno que o banco envia, contendo os boletos pagos para baixar no sistema e banco de dados.
 
 >
-> #### *Tela que emite as Cobranças *
+> #### *Tela que emite as Cobranças*
 > 
 ![tela-cobranca](https://user-images.githubusercontent.com/16118637/227008105-d809294d-0aa1-4fb8-8295-4cf195e0ef0c.png)
 
